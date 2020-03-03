@@ -1,0 +1,6 @@
+name: Campaign Source
+type: itemSource
+requirements: [
+    copper/1
+]
+category: transportation
