@@ -1,0 +1,6 @@
+name: Campaign Power
+type: powerSource
+requirements:[
+    copper/1
+]
+category: power
