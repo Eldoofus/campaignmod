@@ -1,4 +1,6 @@
 name: campaignmod
 displayName: Campaign Mod
+author: Eldoofus
+minGameVersion: 103
 Version: 1.0
 Description: A mod
