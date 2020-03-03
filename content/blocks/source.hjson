@@ -1,5 +1,6 @@
 name: Campaign Source
 type: itemSource
+description: Infinite Items
 requirements: [
     copper/1
 ]
